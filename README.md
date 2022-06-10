@@ -7,6 +7,7 @@
 - More about media queries  
 - More about flexbox & grid
 - More about React file structure
+- Dynamic Rendering
 
 ## Live Site
 Check out the live site at [Gericht](https://gericht-restaurant-app.herokuapp.com/).
