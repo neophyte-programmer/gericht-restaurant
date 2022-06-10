@@ -29,6 +29,12 @@ a {
 	animation: slide-bottom 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
 }
 
+.flex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 @-webkit-keyframes slide-bottom {
   0% {
     -webkit-transform: translateY(-25%);
