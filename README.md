@@ -18,3 +18,12 @@ Check out the live site at [Gericht](https://gericht-restaurant-app.herokuapp.co
 
 
 ## How It Looks
+To view the project in action, visit the [Gericht](https://gericht-restaurant-app.herokuapp.com/) site to play around with the responsiveness
+and layout of the site. Below are the previews for large screens.
+
+![](preview/home-lg.png)
+![](preview/about-lg.png)
+![](preview/menu-lg.png)
+![](preview/chef-lg.png)
+![](preview/gallery-lg.png)
+![](preview/footer-lg.png)
