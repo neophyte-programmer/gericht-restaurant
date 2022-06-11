@@ -19,10 +19,6 @@
   scroll-behavior: smooth;
 }
 
-html {
-  font-size: 10px;
-}
-
 a {
   color: unset;
   text-decoration: none;

@@ -59,7 +59,7 @@
 	font-weight: 700;
 	letter-spacing: 0.04em;
 	line-height: 28px;
-	font-size: 16px;
+	font-size: 14px;
 	padding: 0.5rem 1.5rem;
 	border-radius: 1px;
 	border: none;
@@ -75,7 +75,7 @@
 	text-transform: capitalize;
 	font-feature-settings: 'tnum' on, 'lnum' on;
 	line-height: 29.9px;
-	font-size: 23px;
+	font-size: 19px;
 }
 
 .p__opensans {
@@ -91,7 +91,7 @@
 .headtext__cormorant {
 	font-family: var(--font-base);
 	color: var(--color-golden);
-	font-size: 64px;
+	font-size: 58px;
 	line-height: 83.2px;
 	letter-spacing: 0.04em;
 	text-transform: capitalize;
