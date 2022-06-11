@@ -12,7 +12,7 @@ const wines = [
     tags: 'AU | Bottle',
   },
   {
-    title: 'La Vieillw Rose',
+    title: 'La Vieille Rose',
     price: '$44',
     tags: 'FR | 750 ml',
   },
