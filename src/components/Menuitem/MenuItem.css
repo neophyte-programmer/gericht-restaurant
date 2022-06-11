@@ -21,14 +21,14 @@
 }
 
 .app__menuitem-dash {
-    width: 90%;
+    width: 90px;
     height: 1px;
     background: var(--color-golden);
     margin: 0 1rem;
 }
 
 .app__menuitem-price {
-    diaplay: flex;
+    display: flex;
     justify-content: flex-end;
     align-items: flex-end;
 }
