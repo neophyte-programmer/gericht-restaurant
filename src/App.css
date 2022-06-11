@@ -175,3 +175,11 @@
 		line-height: 70px;
 	}
 }
+
+@media screen and (max-width: 300px) {
+	.app {
+		min-width: 100vw;
+	}
+
+	
+}
