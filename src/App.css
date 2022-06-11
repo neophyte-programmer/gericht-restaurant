@@ -101,6 +101,16 @@
 	width: 45px;
 }
 
+::-webkit-scrollbar {
+	width: 10px;
+	background: var(--color-black);
+}
+
+::-webkit-scrollbar-thumb {
+	background: var(--color-golden);
+	border-radius: 8px;
+}
+
 @media screen and (min-width: 2000px) {
 	.custom__button,
 	.p__cormorant {
@@ -180,6 +190,4 @@
 	.app {
 		min-width: 100vw;
 	}
-
-	
 }
